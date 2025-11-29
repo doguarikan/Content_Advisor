@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513709075713",
+    "project_id": "contentadvisor-eb7fa",
+    "storage_bucket": "contentadvisor-eb7fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513709075713:android:6c3143a914a592b22c7f00",
+        "android_client_info": {
+          "package_name": "com.example.content_advisor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvuVXgl3QLDUBJp3rPpzHDYGARGu1Fw3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
